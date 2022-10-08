@@ -10,5 +10,5 @@ return(
     </div>
 );
 };
-
+// this will set out componets to be able to imort in different pages components and app.js 
 export default Rating;

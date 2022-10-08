@@ -1,3 +1,5 @@
+// creating a web-visitor component 
+
 function Visitors(){
     return(
         <div className="visitors">
@@ -8,4 +10,6 @@ function Visitors(){
     );
 };
 
+// this will set out componets to be able to imort in different pages components and app.js 
 export default Visitors;
+
