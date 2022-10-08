@@ -1,4 +1,6 @@
+// creating our sentiment-analysis component 
 function Sentiment(){
+    // we are ruturning a div with classname setiment that has sentiment analysis and the data we wanna add
     return(
         <div className="sentiment">
             <h4>Sentiment Analysis</h4>
