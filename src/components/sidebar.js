@@ -1,4 +1,6 @@
+// creating a sidebar component 
 function Sidebar(){
+    // we are reuturning a div with classname sidebar that includes our widget reviews customers online analyisis and settign
     return(
         <div className="sidebar">
             <h4 className="top">Dashboard</h4>
